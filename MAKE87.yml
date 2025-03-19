@@ -1,0 +1,17 @@
+build_kit:
+  name: python3
+  version: latest
+  target_architectures:
+  - amd64
+  - arm64
+outbound_topics: []
+inbound_topics: []
+requester_endpoints: []
+provider_endpoints: []
+port_requirements: []
+peripheral_requirements: []
+needs_host_network: false
+needs_privileged: false
+config:
+  values: []
+volume_requirements: []
